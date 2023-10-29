@@ -1,0 +1,16 @@
+{
+    "name": "farook/delivery-calc",
+    "description": "Delivery calculation",
+    "autoload": {
+        "psr-4": {
+            "Farook\\DeliveryCalc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Farook",
+            "email": "admin@sophos.uz"
+        }
+    ],
+    "require": {}
+}
